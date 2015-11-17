@@ -41,6 +41,7 @@ Tackle this anyway you would like, this is a real problem we solved during devel
 
 **Note.**
  - please add comments to your code
- - you can not modify by hand the value of $input_string as that is how we received it from the external source, you can modify it in code if you wish though. 
+ - Submission is via a pull request, we want you to demonstrate your git flow abilities as well.
+ - You may not modify by hand the value of $input_string as that is how we received it from the external source, you can modify it in code if you wish though. 
 
 **We expect it will take no more than two hours to complete.**
